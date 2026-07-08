@@ -4,7 +4,7 @@
 set -e
 
 # Define Python script name
-PYTHON_SCRIPT="data/merging_user_history_phase_one.py"  # Change this to your actual script filename
+PYTHON_SCRIPT="merging_user_history_phase_one.py"  # Change this to your actual script filename
 
 # Define output log file
 LOG_FILE="merging_process_phase_one.log"
